@@ -1,2 +1,1 @@
-# Bakery-WebSite
-Cookies Sell WebSite
+The online bakery website offers customers a platform to browse and order freshly baked goods with home delivery options. It features a user-friendly interface for seamless product selection and checkout.
